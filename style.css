@@ -1,0 +1,34 @@
+body {
+  background-image:url("https://placekitten.com/1920/1080");
+  color: white;
+  font-family: system-ui;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+small{
+  justify-content: center;
+}
+
+table{
+  background-color: white;
+  assign-content:center;
+  justify-content: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td{
+  color: blue;
+  text-decoration: underline;
+}
+
+td:hover{
+  color:red;
+  text-decoration: none;
+  transition: color 0.1s ease;
+}
