@@ -69,49 +69,49 @@ header .fill{
 }
 
 header #home{
-  background-image:url("/resources/ButtonHome.png");
+  background-image:url("resources/ButtonHome.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
 
 header #home:hover{
-  background-image:url("/resources/ButtonHomeHover.png");
+  background-image:url("resources/ButtonHomeHover.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
 
 header #homeCurrent{
-  background-image:url("/resources/ButtonHomeCurrent.png");
+  background-image:url("resources/ButtonHomeCurrent.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
 
 header #homeCurrent:hover{
-  background-image:url("/resources/ButtonHomeHover.png");
+  background-image:url("resources/ButtonHomeHover.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
 
 header #about{
-  background-image:url("/resources/ButtonAbout.png");
+  background-image:url("resources/ButtonAbout.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
 
 header #about:hover{
-  background-image:url("/resources/ButtonAboutHover.png");
+  background-image:url("resources/ButtonAboutHover.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
 
 header #aboutCurrent{
-  background-image:url("/resources/ButtonAboutCurrent.png");
+  background-image:url("resources/ButtonAboutCurrent.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
 
 header #aboutCurrent:hover{
-  background-image:url("/resources/ButtonAboutHover.png");
+  background-image:url("resources/ButtonAboutHover.png");
   background-repeat: no-repeat;
   background-size: 240px 160px;
 }
